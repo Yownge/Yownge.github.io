@@ -14,24 +14,30 @@ p {
  vertical-align: top
 font-size: 50  
 text-align: center;
-
+    
 }
 img {
 border-style: solid;
 border-right: 20px
 border-left: 20px
 }
-
+head, body{
+    
+    background-color: aqua
+}
 
 
 html {
-  font:times-new-romans;
+    font:times-new-romans;
   -webkit-text-size-adjust: 100%;
     font: white
       -ms-text-size-adjust: 100%;
     color:white
-
 }
+
+    
+
+
 img {
     padding: 15px
 }
