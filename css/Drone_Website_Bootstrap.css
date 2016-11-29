@@ -21,6 +21,9 @@ border-style: solid;
 border-right: 20px
 border-left: 20px
 }
+button{
+    align:center
+}
 head, body{
     
     background-color: aqua
