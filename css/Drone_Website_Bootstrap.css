@@ -13,9 +13,12 @@ table, th, tr, td {
 }  
 p {
  vertical-align: top
-font-size: 50  
+  
 text-align: center;
     
+}
+p {
+    font-size:19px;
 }
 img {
 border-style: solid;
